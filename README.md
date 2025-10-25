@@ -1,6 +1,6 @@
 # **Lullaby Generator for Kids**
 
-![Lullaby Generator for Kids](images/screenshot.png)
+![Lullaby Generator for Kids](iamges/screenshot.png)
 
 This project is a **Lullaby Generator** web application built using **Streamlit** and **LangChain**. It allows users to create personalized lullabies based on a child's name, location, and language preference. The app generates a simple, short lullaby and then translates it into the desired language, making bedtime more magical for little ones.
 
